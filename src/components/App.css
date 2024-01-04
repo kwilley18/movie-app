@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  background: #F83815;
+}
+
+.movie-app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap; 
+}
