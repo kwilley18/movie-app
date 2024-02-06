@@ -1,7 +1,7 @@
 import React from 'react'; 
 
 const MovieList = (props) => {
-// mov is an object of MovieList
+// mov is an object of MovieList d-flex justify-content-start m-3
     return (
         <>
             {props.mov.map( (movie, index) =>( 
